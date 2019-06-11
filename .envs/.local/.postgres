@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=oceanlex
+POSTGRES_USER=IhgCvesLlzHaVEKisCmKxwxGFnVwCglC
+POSTGRES_PASSWORD=CDcJowEqbUOUs2BF0pq0PHjyotGhiAQXZqDF4dDXgu910uaJvralutJpepSFf7mg
